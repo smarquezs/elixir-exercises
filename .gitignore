@@ -12,3 +12,4 @@ erl_crash.dump
 airtable/.envrc
 airtable/.formatter.exs
 hello/.formatter.exs
+airtable_api/.envrc
